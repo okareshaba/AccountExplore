@@ -1,0 +1,15 @@
+
+{
+  "ResponseCode": "00",
+  "ResponseMessage": "Successful",
+  "ResponseData": [
+    {
+      "Description": "SAVINGS ACCOUNT",
+      "ClassType": "SA"
+    },
+    {
+      "Description": "CURRENT ACCOUNT",
+      "ClassType": "CA"
+    }
+  ]
+}

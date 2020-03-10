@@ -1,0 +1,5 @@
+const String ENCRYPT_KEY = "CYBER400SPACE";
+
+const String INITIALISING_VECTOR_KEY = "f7431c8d00b85a6d";
+
+const  String CERTIFICATE_SHA = "sha256/jamhwE50GWeSiVF2Q6/uxCHVFovx8XDBKoPiKbYJp28=";

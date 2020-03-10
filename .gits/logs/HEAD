@@ -1,0 +1,17 @@
+0000000000000000000000000000000000000000 9a27aeaa36c194465bd7925b5f899b8fa3403eef Shaba Okare Michael <shabaokare@gmail.com> 1561027915 +0100	clone: from https://cybsoft.visualstudio.com/zxplore/_git/zxplore
+9a27aeaa36c194465bd7925b5f899b8fa3403eef 54d01c6734be433d2da8eda8ee73d8ee61d6fb73 Shaba Okare Michael <shabaokare@gmail.com> 1561028000 +0100	checkout: moving from master to flutter
+54d01c6734be433d2da8eda8ee73d8ee61d6fb73 54d01c6734be433d2da8eda8ee73d8ee61d6fb73 Shaba Okare Michael <shabaokare@gmail.com> 1565794966 +0100	reset: moving to HEAD
+54d01c6734be433d2da8eda8ee73d8ee61d6fb73 2964fb276665cb6e08e9188000b085e25ad6de0c Shaba Okare Michael <shabaokare@gmail.com> 1565794967 +0100	merge origin/flutter: Fast-forward
+2964fb276665cb6e08e9188000b085e25ad6de0c 73e5a719f9139da6c9c7743aa73a0edbb6b2da31 Shaba Okare Michael <shabaokare@gmail.com> 1566396791 +0100	commit: Bug fixes and Implementation of pull refresh on home page
+73e5a719f9139da6c9c7743aa73a0edbb6b2da31 80111f96f068f51e93e81f9a738f23ab90948816 Shaba Okare Michael <shabaokare@gmail.com> 1566397353 +0100	merge origin/flutter: Merge made by the 'recursive' strategy.
+80111f96f068f51e93e81f9a738f23ab90948816 29727d660e91ec09f6643d5595d10f64079d071a Shaba Okare Michael <shabaokare@gmail.com> 1566403249 +0100	commit: Bug fixes
+29727d660e91ec09f6643d5595d10f64079d071a db76e7b6a0b1d15351c3068802385cec7cb79ea8 Shaba Okare Michael <shabaokare@gmail.com> 1568023763 +0100	commit: Bug fixes and Implementation of pull refresh on home page
+db76e7b6a0b1d15351c3068802385cec7cb79ea8 63bc7037c4c439abfd7a9fa7af12ac8447de7a13 Shaba Okare Michael <shabaokare@gmail.com> 1568508172 +0100	commit: Bug fixes and Implement security and filter and none card validation in the bloc for easy classic account
+63bc7037c4c439abfd7a9fa7af12ac8447de7a13 a1470124b624a5876c369e140ec43650e4d7215d Shaba Okare Michael <shabaokare@gmail.com> 1568630629 +0100	commit: Reverted Filter
+a1470124b624a5876c369e140ec43650e4d7215d 54d1b89881f8da6edbba879d4cef43bc4dd719b7 Shaba Okare Michael <shabaokare@gmail.com> 1568726088 +0100	pull --progress --no-stat -v --progress origin flutter: Fast-forward
+54d1b89881f8da6edbba879d4cef43bc4dd719b7 d75bff0feb4d9d1cfec6e5ea034e79d17e5cff4a Shaba Okare Michael <shabaokare@gmail.com> 1568730550 +0100	pull --progress --no-stat -v --progress origin flutter: Fast-forward
+d75bff0feb4d9d1cfec6e5ea034e79d17e5cff4a ccc1716d46f3f4ad44b121bc8a0e55364fa94665 Shaba Okare Michael <shabaokare@gmail.com> 1568733744 +0100	pull --progress --no-stat -v --progress origin flutter: Fast-forward
+ccc1716d46f3f4ad44b121bc8a0e55364fa94665 ba5e37d2cb099236e212848f05fb12b96c5afeeb Shaba Okare Michael <shabaokare@gmail.com> 1568795506 +0100	pull --progress --no-stat -v --progress origin flutter: Fast-forward
+ba5e37d2cb099236e212848f05fb12b96c5afeeb 63ad599a2b6b92f948b68f23b8d041c1a9d27565 Shaba Okare Michael <shabaokare@gmail.com> 1569492913 +0100	commit: Reverted Filter
+63ad599a2b6b92f948b68f23b8d041c1a9d27565 3a0b36751f9519b7d17a69d7fa5443fdfa3e061e Shaba Okare Michael <shabaokare@gmail.com> 1571066235 +0100	pull --progress --no-stat -v --progress origin flutter: Fast-forward
+3a0b36751f9519b7d17a69d7fa5443fdfa3e061e 75f910a208ca272cf847b90255701939466dcf91 Shaba Okare Michael <shabaokare@gmail.com> 1572443333 +0100	commit: Update
