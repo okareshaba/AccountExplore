@@ -1,6 +1,6 @@
-# zxplore_app
+# _app
 
-A Cross Platform Mobile app for Account Creation By Zenith Staff
+A Cross Platform Mobile app for Account Creation By  Staff
 
 ## Getting Started
 
